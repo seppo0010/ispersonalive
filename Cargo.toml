@@ -1,0 +1,9 @@
+[package]
+name = "ispersonalive"
+version = "0.1.0"
+authors = ["Sebastian Waisbrot <seppo0010@gmail.com>"]
+
+[dependencies]
+wikipedia = "0.2.0"
+regex = "0.2"
+time = "0.1"
